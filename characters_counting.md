@@ -1,3 +1,6 @@
+## Characters counting
+###
+
 # I prefilled this variable for you, you don't need to touch it.
 
 whetting_your_appetite = """Python is an easy to learn, powerful
