@@ -18,7 +18,7 @@ def is_anagram(left, right):
 ```
 <br>
 
-Solution.<br><br
+Solution.<br><br>
 
 ```
 def is_anagram(left, right):
