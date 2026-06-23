@@ -14,3 +14,9 @@ Enter your code below:
 print(len(whetting_your_appetite))
 ```
 <br>
+
+Output
+
+```
+359
+```
