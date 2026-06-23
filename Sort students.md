@@ -16,6 +16,14 @@ print(sort_by_mark(my_class))
 ```
 <br>
 
+
+Output
+
+```
+[(75, 'Ada'), (50, 'Alan'), (25, 'Shannon')]
+```
+<br>
+
 Part 2
 Write a function named sort_by_name that take as argument a list of students and returns a copy of it sorted by name in ascending order.
 
@@ -31,6 +39,11 @@ print(sort_by_name(my_class))
 ```
 <br>
 
+Output
+
+```
+[(75, 'Ada'), (50, 'Alan'), (25, 'Shannon')]
+```
 
 
 
