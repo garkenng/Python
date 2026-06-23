@@ -13,3 +13,10 @@ Below the code editor you can see a Submit button, use it to send your answer to
 print("Hello world!")
 ```
 <br>
+
+Output
+
+```
+Hello World
+```
+<br>
