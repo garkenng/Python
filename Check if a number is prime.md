@@ -8,6 +8,8 @@ n is number that the function is_prime takes as a parameter.
 The function is_prime return True if n is a prime number, False otherwise.
 <br><br>
 
+Solution.<br><br>
+
 ```
 import math
 
