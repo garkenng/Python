@@ -1,4 +1,5 @@
 ## Print 42
+### **Summary**<br>
 Write a single line of code displaying the number 42.
 
 ```
