@@ -8,7 +8,7 @@ programming. Python’s elegant syntax and dynamic typing, together with
 its interpreted nature, make it an ideal language for scripting and
 rapid application development in many areas on most platforms."""
 
-# Enter your code below:
+Enter your code below:
 
 ```
 print(len(whetting_your_appetite))
