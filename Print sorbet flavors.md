@@ -21,3 +21,17 @@ FLAVORS = [
 ]
 ```
 <br>
+
+Print one duo per line, and separate flavors by comas, so your output should look like:
+<br><br>
+
+```
+Banana, Chocolate
+Banana, Lemon
+Banana, Pistachio
+Banana, Raspberry
+Banana, Strawberry
+Banana, Vanilla
+Chocolate, Lemon
+```
+<br>
