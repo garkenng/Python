@@ -26,5 +26,10 @@ import math
 def circle_perimeter(r):
     perimeter = 2 * math.pi * r
     return perimeter
+
+
+print(circle_perimeter(1))
+print(circle_perimeter(10))
+print(circle_perimeter(100))
 ```
 <br>
