@@ -1,7 +1,5 @@
 ## Characters counting
-###
-
-# I prefilled this variable for you, you don't need to touch it.
+### I prefilled this variable for you, you don't need to touch it.
 
 whetting_your_appetite = """Python is an easy to learn, powerful
 programming language. It has efficient high-level data structures and
