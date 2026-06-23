@@ -35,3 +35,49 @@ Banana, Vanilla
 Chocolate, Lemon
 ```
 <br>
+
+Solution.<br><br>
+
+```
+FLAVORS = [
+    "Banana",
+    "Chocolate",
+    "Lemon",
+    "Pistachio",
+    "Raspberry",
+    "Strawberry",
+    "Vanilla",
+]
+
+for i, first_flavor in enumerate(FLAVORS):
+    for second_flavor in FLAVORS[i + 1:]:
+        print(f"{first_flavor}, {second_flavor}")
+```
+<br>
+
+Output.<br><br>
+
+```
+Banana, Chocolate
+Banana, Lemon
+Banana, Pistachio
+Banana, Raspberry
+Banana, Strawberry
+Banana, Vanilla
+Chocolate, Lemon
+Chocolate, Pistachio
+Chocolate, Raspberry
+Chocolate, Strawberry
+Chocolate, Vanilla
+Lemon, Pistachio
+Lemon, Raspberry
+Lemon, Strawberry
+Lemon, Vanilla
+Pistachio, Raspberry
+Pistachio, Strawberry
+Pistachio, Vanilla
+Raspberry, Strawberry
+Raspberry, Vanilla
+Strawberry, Vanilla
+```
+
