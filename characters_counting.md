@@ -1,5 +1,5 @@
 ## Characters counting
-### I prefilled this variable for you, you don't need to touch it.
+### 
 
 whetting_your_appetite = """Python is an easy to learn, powerful
 programming language. It has efficient high-level data structures and
@@ -9,4 +9,8 @@ its interpreted nature, make it an ideal language for scripting and
 rapid application development in many areas on most platforms."""
 
 # Enter your code below:
+
+```
 print(len(whetting_your_appetite))
+```
+<br>
