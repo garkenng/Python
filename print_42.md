@@ -1,6 +1,7 @@
-# Print 42
+## Print 42
+### Write a single line of code displaying the number 42.
 
-Write a single line of code displaying the number 42.
-
-
+```
 print("42")
+```
+<br>
