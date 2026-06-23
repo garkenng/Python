@@ -21,3 +21,11 @@ Create a dist function, receiving a list of numbers (integers or floating points
 <br>
 
 Solution.<br><br>
+
+```
+def dist(points):
+    max_value = max(points)
+    min_value = min(points)
+    difference = max_value - min_value
+    return difference
+```
