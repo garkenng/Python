@@ -17,3 +17,14 @@ To test it, we will import your function and try it with different values, such 
 628.3185307179587
 ```
 <br>
+
+Solution.<br><br>
+
+```
+import math
+
+def circle_perimeter(r):
+    perimeter = 2 * math.pi * r
+    return perimeter
+```
+<br>
